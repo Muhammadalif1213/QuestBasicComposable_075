@@ -69,6 +69,7 @@ fun BasicCompose(
         )
         Text(
             text = "Nama",
+            fontWeight = FontWeight.Bold,
         )
     }
 
