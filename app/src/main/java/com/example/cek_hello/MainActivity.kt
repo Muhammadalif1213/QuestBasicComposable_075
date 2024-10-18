@@ -84,7 +84,13 @@ fun BasicCompose(
                     blurRadius = 10f
                 )
             )
-
+        )
+        Text(
+            text = "Muhammad Alifian Aqilah",
+            style = TextStyle(
+                fontSize = 30.sp,
+                fontWeight = FontWeight.Bold
+            )
         )
     }
 
