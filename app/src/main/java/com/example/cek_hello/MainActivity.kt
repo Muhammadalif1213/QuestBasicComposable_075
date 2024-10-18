@@ -95,6 +95,13 @@ fun BasicCompose(
                 color = Color(0xFF04569F)
             )
         )
+        Text(
+            text = "20220140075",
+            style = TextStyle(
+                fontWeight = FontWeight.Bold,
+                fontSize = 20.sp
+            )
+        )
         Image(painter = painterResource(id = R.drawable.img),
             contentDescription = null,
             modifier = Modifier
