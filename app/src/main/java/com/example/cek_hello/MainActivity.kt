@@ -81,6 +81,7 @@ fun BasicCompose(
                 shadow = Shadow(
                     color = Color.Gray,
                     offset = Offset(2f, 2f),
+                    blurRadius = 10f
                 )
             )
 
