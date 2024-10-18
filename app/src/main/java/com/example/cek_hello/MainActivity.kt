@@ -89,7 +89,8 @@ fun BasicCompose(
             text = "Muhammad Alifian Aqilah",
             style = TextStyle(
                 fontSize = 30.sp,
-                fontWeight = FontWeight.Bold
+                fontWeight = FontWeight.Bold,
+                color = Color(0xFF04569F)
             )
         )
     }
