@@ -73,6 +73,8 @@ fun BasicCompose(
             style = TextStyle(
                 fontWeight = FontWeight.Bold,
                 color = Color(0xFF04569F),
+                fontSize = 30.sp,
+                fontFamily = FontFamily.Cursive,
             )
 
         )
