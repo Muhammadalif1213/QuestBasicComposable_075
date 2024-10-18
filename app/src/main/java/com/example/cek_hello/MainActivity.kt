@@ -75,6 +75,7 @@ fun BasicCompose(
                 color = Color(0xFF04569F),
                 fontSize = 30.sp,
                 fontFamily = FontFamily.Cursive,
+                letterSpacing = 2.sp,
             )
 
         )
