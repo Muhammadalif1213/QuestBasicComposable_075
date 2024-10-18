@@ -80,6 +80,7 @@ fun BasicCompose(
                 letterSpacing = 2.sp,
                 shadow = Shadow(
                     color = Color.Gray,
+                    offset = Offset(2f, 2f),
                 )
             )
 
