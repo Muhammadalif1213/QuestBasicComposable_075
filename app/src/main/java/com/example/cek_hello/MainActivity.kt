@@ -105,6 +105,7 @@ fun BasicCompose(
         Image(painter = painterResource(id = R.drawable.img),
             contentDescription = null,
             modifier = Modifier
+                .padding(top = 16.dp)
                 .size(250.dp)
                 .clip(RoundedCornerShape(100.dp))
         )
